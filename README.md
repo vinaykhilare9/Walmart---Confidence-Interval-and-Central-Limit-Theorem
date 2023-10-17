@@ -26,13 +26,14 @@ Occupation:	Occupation(Masked)
 
 City_Category:	Category of the City (A,B,C)
 
+StayInCurrentCityYears:	Number of years stay in the current city
+
 Marital_Status:	Marital Status
 
 ProductCategory:	Product Category (Masked)
 
 Purchase:	Purchase Amount
 
-StayInCurrentCityYears:	Number of years stay in the current city
 
 ## Insights:
 1. By using the Central Limit Theorem with bootstrapped samples, we can see that the sample mean of bootstrapped is close to the population mean for all the features with respect to purchase.
