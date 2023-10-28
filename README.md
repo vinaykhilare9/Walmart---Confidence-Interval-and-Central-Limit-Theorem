@@ -36,7 +36,7 @@ Purchase:	Purchase Amount
 
 
 ## Insights:
-1. By using the Central Limit Theorem with bootstrapped samples, we can see that the sample mean of bootstrapped is close to the population mean for all the features with respect to purchase.
+1. By using the Central Limit Theorem (CLT) with bootstrapped samples, we can see that the sample mean of bootstrapped is close to the population mean for all the features with respect to purchase.
 2. There is no overlapping in purchasing expenditure between male and female customers.
 3. There is no statistically significant difference in purchasing power between married and single people.
 4. User ID 1001680 is the most frequent customer, followed by 1004277 and 1001941, respectively.
